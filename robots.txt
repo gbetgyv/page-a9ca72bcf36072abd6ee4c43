@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tieshangangrc.cn/sitemap.xml

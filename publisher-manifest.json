@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8c363c712e5ae149bac18bab",
+  "owner": "gbetgyv",
+  "repo": "page-a9ca72bcf36072abd6ee4c43",
+  "title": "冲浪云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9ca72bcf36072abd6ee4c43",
+      "a": "冲浪云",
+      "b": "2027官方最新地址导航",
+      "entity": "冲浪云",
+      "brand": "冲浪云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9c23b3e33a122e36cf8b7e023949c54619b414de9d2942faa9a0777bd4edc7ba",
+      "content": {
+        "primary_entity": "冲浪云",
+        "keyword1": "冲浪云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按你的设备挑选合适的客户端，再导入订阅开始使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，下载对应客户端，导入订阅即可开始使用冲浪云。",
+          "AI_CLOSING_TITLE": "开始你的加速体验",
+          "AI_DESCRIPTION": "，冲浪云面向需要稳定海外网络连接的用户提供多档订阅套餐，从基础版到团队版覆盖不同流量与设备需求。基础版每月15元提供100GB流量，适合日常浏览；旗舰版每月35元提供300GB流量与IPLC专线优化，兼顾流媒体与游戏；团队版每月85元提供1000GB流量和20台设备支持，适合多人共享。按年付可享更优惠价格，所有套餐均包含节点订阅与多平台客户端配置指引，方便你在常用设备上快速开始使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路质量三个方向快速了解各套餐差异。",
+          "AI_FEATURES_TITLE": "套餐核心差异",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、旗舰版300GB、团队版1000GB，按使用强度选择。",
+          "AI_FEATURE_TEXT_2": "设备数从3台到20台，个人、家庭与团队场景各有对应方案。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供更高带宽线路，适合流媒体与游戏需求。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路质量",
+          "AI_GUIDE_INTRO": "按照选择套餐、确认设备、导入订阅的顺序完成初始设置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "冲浪云提供多档海外网络加速订阅，覆盖个人到团队的流量与设备需求。基础版适合日常使用，旗舰版提供IPLC专线与流媒体解锁，团队版支持20台设备同时在线。按年付可享优惠价格，配置指引覆盖常见客户端。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配你的设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付享更优惠价格",
+          "AI_PLANS_INTRO": "基础版月付15元，旗舰版月付35元，团队版月付85元；按年付分别仅需150元、350元、850元，可结合流量与设备数量选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数以及线路要求，在基础版、旗舰版和团队版中挑选合适档位。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统与客户端类型，查看订阅配置对应的适配要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用文档导入订阅链接，完成节点配置与连接。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "冲浪云套餐概览",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、每月流量需求在 100GB 以内的用户，解锁基础流媒体，月付 15 元，年付 150 元。",
+          "AI_FAQ_ANSWER_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，支持 5 台设备，月付 35 元，年付 350 元，适合对延迟和画质有要求的用户。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，超出时建议升级套餐。",
+          "AI_FAQ_ANSWER_4": "可以。基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，均比按月支付更实惠。",
+          "AI_FAQ_ANSWER_5": "手机选对应系统的客户端，电脑按 Windows 或 macOS 安装，路由器可导入订阅，具体配置步骤可参考客户端文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么优势？",
+          "AI_FAQ_QUESTION_3": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "可以按年付吗？价格是多少？",
+          "AI_FAQ_QUESTION_5": "不同设备如何选择客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tieshangangrc.cn",
+    "host": "tieshangangrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "fe2023a3b71eb0f166b597e1d6815258e0243cbdccb925382aba7f0533b614d8",
+    "sitemap.xml": "96b4bc407a916df206328a58419d68bfe9b5e09a5c9c2d043c38e9b2d2a35dcd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "daa5edc942c3b36b9f9364643d7157e9f15e1d5576136bdba242d758662c35d3",
+    "robots.txt": "b7353093c13c7bf6569d38e253ca92e4547a67b3005fd62c2382e155fcd8ad85",
+    "392bb3ae2d501ed0111dcfde92b0bcf8.txt": "196932d29fa7095700cca5da2e5ddbebb3bcf66385799aa6909068a7b6878019"
+  },
+  "revision": "d0c733e70a448d2617545a6dba615888186f432033f8549e18cdb7865a1ba187"
+}
